@@ -1,0 +1,20 @@
+.Signsection{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    justify-content: center;
+    align-self: center;
+    width:100%;
+  }
+  
+  .Signsection  button{
+    box-sizing: border-box;
+    border:1px solid #fec7d7;
+    background-color: #fec7d7;
+    border-radius: 21px;
+    padding:1em 2em;
+    box-shadow: 1px 1px 3px #000;
+    font-weight: bold;
+    margin:0.5em;
+    color: #fff;
+  }

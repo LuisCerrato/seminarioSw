@@ -1,0 +1,11 @@
+.page {
+    box-sizing: border-box;
+    background-color:#f7ede2;
+    padding:1em;
+    overflow:auto;
+  }
+  .content {
+    display:flex;
+    flex-direction: column;
+  }
+  

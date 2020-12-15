@@ -1,0 +1,46 @@
+section button{
+  box-sizing: border-box;
+  border:1px solid #fff;
+  background-color: #fec7d7;
+  border-radius: 21px;
+  padding:1em 2em;
+  box-shadow: 1px 1px 3px #fec7d7;
+  font-weight: bold;
+  margin:0.5em;
+  color: #fff;
+}
+
+.leaflet-container{
+  width: 90vw;
+  height: 40vw;
+  
+}
+h1{
+  color: #fff;
+}
+body{
+	margin:0;
+	font-family: sans-serif;
+}
+
+
+*{
+	box-sizing: border-box;
+}
+
+.table{
+	width: 100%;
+  background-color: white;
+}
+
+.table td,.table th{
+  padding:12px 15px;
+  border:1px solid #ddd;
+  text-align: center;
+  font-size:16px;
+}
+
+.table th{
+	background-color: #fec7d7;
+	color:#ffffff;
+}
